@@ -1,0 +1,22 @@
+{
+  "name": "interview_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RalphLincoln/interview_test.git"
+  },
+  "author": "Alaneme Ikenna Raphael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RalphLincoln/interview_test/issues"
+  },
+  "homepage": "https://github.com/RalphLincoln/interview_test#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
